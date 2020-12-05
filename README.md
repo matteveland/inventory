@@ -2,7 +2,7 @@
 Inventory Management System with invoices and picklists.
 
 ****
-Please Support Development: https://www.paypal.com/biz/fund?id=ZDR2NTBSKK7JE
+Please Support Development: 
 Your contribution will help to provide the support necessary to maintain and develop this project.
 ****
 https://www.hackster.io/bitsandbots/serving-your-own-inventory-management-system-6e8b53
